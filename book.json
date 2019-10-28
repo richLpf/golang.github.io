@@ -1,0 +1,10 @@
+{
+	"title": "golang基础",
+	"author": "richlpf",
+	"description": "a book for golang",
+	"language": "zh-hans",
+	"theme-default": {
+	    "showLevel": true
+	},
+	"plugins": ["summary", "toggle-chapters", "theme-comscore"]
+}
