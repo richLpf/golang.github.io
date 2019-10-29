@@ -1,41 +1,18 @@
 # Introduction
 
-> 开发条件
+> 本项目主要用来一路学习golang的路线图，整理资料
 
-`node` `npm` `gitbook-cli`
+本周完成：
+- [] 基础知识
+	- [] interface
+	- [] array
 
-> 具体过程
 
-```
-# 安装gitbook-cli
-npm install -g gitbook-cli
-gitbook -V
 
-git clone git@github.com:richLpf/golang.github.io.git
+待完成P1:
 
-cd ./golang.github.io
 
-# local: git checkout dev
+待完成P2:
 
-gitbook install
 
-# 本地运行 http://localhost:4000
-gitbook serve 
 
-git checkout master 
-
-git merge dev
-
-# 打包发布
-gitbook build ./ ./docs
-
-# 提交
-git add .
-
-git commit -m "test"
-
-git push
-
-```
-
-静态网站地址： https://richlpf.github.io/golang.github.io/

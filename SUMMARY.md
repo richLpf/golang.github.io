@@ -1,29 +1,23 @@
 
 ## docs
 
-- [gitbook]()
-    - [fonts]()
-        - [fontawesome]()
-    - [gitbook-plugin-expandable-chapters]()
-    - [gitbook-plugin-fontsettings]()
-    - [gitbook-plugin-highlight]()
-    - [gitbook-plugin-lunr]()
-    - [gitbook-plugin-search]()
-    - [gitbook-plugin-sharing]()
-    - [gitbook-plugin-theme-comscore]()
-    - [gitbook-plugin-toggle-chapters]()
-    - [images]()
-- [golang数据类型]()
-    - [golang基础类型.md](docs/golang数据类型/golang基础类型.md)
-- [golang时间函数]()
-    - [time的常用方法](docs/golang时间函数/package_time.md)
-    - [时区介绍.md](docs/golang时间函数/时区介绍.md)
 
-## golang数据类型
+## 基础知识
 
-- [golang基础类型.md](golang数据类型/golang基础类型.md)
+- [function](基础知识/function.md)
+- [基础知识](基础知识/index.md)
+- [interface](基础知识/interface.md)
+- [基础类型](基础知识/基础类型.md)
+- [引用类型](基础知识/引用类型.md)
+- [时区介绍](基础知识/时区.md)
 
-## golang时间函数
+## 常用包
 
-- [time的常用方法](golang时间函数/package_time.md)
-- [时区介绍.md](golang时间函数/时区介绍.md)
+- [常用包](常用包/index.md)
+- [time](常用包/time.md)
+
+## 资料整理
+
+- [资料整理](资料整理/index.md)
+- [深度文章](资料整理/深度文章.md)
+- [项目示例](资料整理/项目示例.md)
